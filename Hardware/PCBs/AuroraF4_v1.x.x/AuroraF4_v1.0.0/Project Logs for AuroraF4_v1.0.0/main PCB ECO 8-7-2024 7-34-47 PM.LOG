@@ -1,0 +1,194 @@
+Removed Pin From Net: NetName=SCK Pin=W1-33
+Removed Pin From Net: NetName=MISO Pin=W1-34
+Removed Pin From Net: NetName=MOSI Pin=W1-35
+Change Component Comment : Designator=C19 Old Comment=2.2uF TAN CAP New Comment=2.2uF
+Change Component Comment : Designator=C20 Old Comment=0603 CAP New Comment=100nf
+Change Component Comment : Designator=J4 Old Comment=JST_4P_SMD_FLAT New Comment=I2C Port
+Change Component Comment : Designator=J5 Old Comment=JST_4P_SMD_FLAT New Comment=UART Port
+Change Component Comment : Designator=J3 Old Comment=JST_6P_SMD_FLAT New Comment=SPI Port
+Change Component Designator: OldDesignator=J3 NewDesignator=SPI1
+Change Component Designator: OldDesignator=J4 NewDesignator=I2C1
+Change Component Designator: OldDesignator=J5 NewDesignator=UART1
+Added Component: Designator=BT1(Button_SMD_1)
+Added Component: Designator=C21(0603 CAP)
+Added Component: Designator=C22(TANTAL_CAP)
+Added Component: Designator=C23(0603 CAP)
+Added Component: Designator=C24(0603 CAP)
+Added Component: Designator=C25(0603 CAP)
+Added Component: Designator=C26(0603 CAP)
+Added Component: Designator=C27(0603 CAP)
+Added Component: Designator=C28(0603 CAP)
+Added Component: Designator=C29(0603 CAP)
+Added Component: Designator=L2(LEDSC160X80X70L45N)
+Added Component: Designator=L3(1608[0603])
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "5973326607F-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/dialight/5973326607F/5973326607F-ND/2432552?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "597-3326-607F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/597-3326-607F/Dialight/view-part/473703/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L4(1608[0603])
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "5973326607F-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/dialight/5973326607F/5973326607F-ND/2432552?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "597-3326-607F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/597-3326-607F/Dialight/view-part/473703/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L5(1608[0603])
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "5973326607F-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/dialight/5973326607F/5973326607F-ND/2432552?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "597-3326-607F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/597-3326-607F/Dialight/view-part/473703/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L6(1608[0603])
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "5973326607F-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/dialight/5973326607F/5973326607F-ND/2432552?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "597-3326-607F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/597-3326-607F/Dialight/view-part/473703/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R28(0603 RES)
+Added Component: Designator=R29(0603 RES)
+Added Component: Designator=R30(0603 RES)
+Added Component: Designator=R31(0603 RES)
+Added Component: Designator=R32(0603 RES)
+Added Component: Designator=R33(0603 RES)
+Added Component: Designator=R34(0603 RES)
+Added Component: Designator=RST1(Button_SMD_1)
+Added Component: Designator=Y2(XTAL_7M25090002)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7M25090002/TXC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7M25090002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7M25090002/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7M25090002/TXC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=3.3V Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=3.3V Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=3.3V Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3.3V Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=3.3V Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=3.3V Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=I2C1-1
+Added Pin To Net: NetName=3.3V Pin=I2C1-2
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R32-2
+Added Pin To Net: NetName=3.3V Pin=R33-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=SPI1-1
+Added Pin To Net: NetName=3.3V Pin=SPI1-2
+Added Pin To Net: NetName=SCK Pin=SPI1-4
+Added Pin To Net: NetName=MOSI Pin=SPI1-5
+Added Pin To Net: NetName=MISO Pin=SPI1-6
+Added Pin To Net: NetName=3.3V Pin=U1-10
+Added Pin To Net: NetName=W5500_CS Pin=U1-18
+Added Pin To Net: NetName=RX Pin=U1-25
+Added Pin To Net: NetName=TX Pin=U1-26
+Added Pin To Net: NetName=3.3V Pin=U1-27
+Added Pin To Net: NetName=SCK Pin=U1-30
+Added Pin To Net: NetName=MISO Pin=U1-31
+Added Pin To Net: NetName=MOSI Pin=U1-32
+Added Pin To Net: NetName=3.3V Pin=U1-74
+Added Pin To Net: NetName=3.3V Pin=U1-99
+Added Pin To Net: NetName=GND Pin=UART1-1
+Added Pin To Net: NetName=3.3V Pin=UART1-2
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-4
+Change Net Name : Old Net Name=W5500_CS New Net Name=W-CS
+Added Pin To Net: NetName=BOOT0 Pin=BT1-2
+Added Pin To Net: NetName=BOOT0 Pin=U1-94
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=CS Pin=SPI1-3
+Added Pin To Net: NetName=CS Pin=U1-33
+Added Net: Name=CS
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=R34-2
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=R33-1
+Added Pin To Net: NetName=NetC21_2 Pin=RST1-1
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=U1-12
+Added Pin To Net: NetName=NetC28_2 Pin=Y2-1
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=U1-13
+Added Pin To Net: NetName=NetC29_2 Pin=Y2-3
+Added Net: Name=NetC29_2
+Added Pin To Net: NetName=NetL2_C Pin=R28-1
+Added Net: Name=NetL2_C
+Added Pin To Net: NetName=NetL3_C Pin=R29-1
+Added Net: Name=NetL3_C
+Added Pin To Net: NetName=NetL4_C Pin=R30-1
+Added Net: Name=NetL4_C
+Added Pin To Net: NetName=NetL5_C Pin=R31-1
+Added Net: Name=NetL5_C
+Added Pin To Net: NetName=NetL6_C Pin=R32-1
+Added Net: Name=NetL6_C
+Added Pin To Net: NetName=NRST Pin=RST1-2
+Added Pin To Net: NetName=NRST Pin=U1-14
+Added Net: Name=NRST
+Added Pin To Net: NetName=SCL Pin=I2C1-3
+Added Pin To Net: NetName=SCL Pin=U1-93
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=I2C1-4
+Added Pin To Net: NetName=SDA Pin=U1-92
+Added Net: Name=SDA
+Added Pin To Net: NetName=U1-RX Pin=U1-68
+Added Pin To Net: NetName=U1-RX Pin=UART1-4
+Added Net: Name=U1-RX
+Added Pin To Net: NetName=U1-TX Pin=U1-69
+Added Pin To Net: NetName=U1-TX Pin=UART1-3
+Added Net: Name=U1-TX
+Added Pin To Net: NetName=W-MISO Pin=U1-16
+Added Pin To Net: NetName=W-MISO Pin=W1-34
+Added Net: Name=W-MISO
+Added Pin To Net: NetName=W-MOSI Pin=U1-15
+Added Pin To Net: NetName=W-MOSI Pin=W1-35
+Added Net: Name=W-MOSI
+Added Pin To Net: NetName=W-SCK Pin=U1-17
+Added Pin To Net: NetName=W-SCK Pin=W1-33
+Added Net: Name=W-SCK
+Added Member To Class: ClassName=main Member=Component BT1 Button_SMD_1
+Added Member To Class: ClassName=main Member=Component C21 100nf
+Added Member To Class: ClassName=main Member=Component C22 10uf
+Added Member To Class: ClassName=main Member=Component C23 100nf
+Added Member To Class: ClassName=main Member=Component C24 100nf
+Added Member To Class: ClassName=main Member=Component C25 100nf
+Added Member To Class: ClassName=main Member=Component C26 100nf
+Added Member To Class: ClassName=main Member=Component C27 100nf
+Added Member To Class: ClassName=main Member=Component C28 22pf
+Added Member To Class: ClassName=main Member=Component C29 22pf
+Added Member To Class: ClassName=main Member=Component L3 TTL_RX_LED
+Added Member To Class: ClassName=main Member=Component L4 TTL_TX_LED
+Added Member To Class: ClassName=main Member=Component L5 UART1_RX
+Added Member To Class: ClassName=main Member=Component L6 UART1_TX
+Added Member To Class: ClassName=main Member=Component R28 330R
+Added Member To Class: ClassName=main Member=Component R29 330R
+Added Member To Class: ClassName=main Member=Component R30 330R
+Added Member To Class: ClassName=main Member=Component R31 330R
+Added Member To Class: ClassName=main Member=Component R32 330R
+Added Member To Class: ClassName=main Member=Component R33 10K
+Added Member To Class: ClassName=main Member=Component R34 10K
+Added Member To Class: ClassName=main Member=Component RST1 Button_SMD_1
+Added Member To Class: ClassName=main Member=Component Y2 7M25090002
