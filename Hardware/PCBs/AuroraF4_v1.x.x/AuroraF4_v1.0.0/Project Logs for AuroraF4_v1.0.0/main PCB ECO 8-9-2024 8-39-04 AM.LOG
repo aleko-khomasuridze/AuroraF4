@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=GPIO0 Pin=U1-29
+Added Pin To Net: NetName=GPIO0 Pin=U1-42
+Added Pin To Net: NetName=GPIO0 Pin=U1-43
+Added Pin To Net: NetName=GPIO0 Pin=U1-44
+Added Pin To Net: NetName=GPIO0 Pin=U1-45
+Added Pin To Net: NetName=GPIO0 Pin=U1-46
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=GPIO1 Pin=U1-34
+Added Net: Name=GPIO1
+Added Pin To Net: NetName=GPIO2 Pin=H1-16
+Added Pin To Net: NetName=GPIO2 Pin=U1-35
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3 Pin=H1-15
+Added Pin To Net: NetName=GPIO3 Pin=U1-36
+Added Net: Name=GPIO3
+Added Pin To Net: NetName=GPIO4 Pin=H1-14
+Added Pin To Net: NetName=GPIO4 Pin=U1-37
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=U1-38
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO6 Pin=U1-39
+Added Net: Name=GPIO6
+Added Pin To Net: NetName=GPIO7 Pin=U1-40
+Added Net: Name=GPIO7
+Added Pin To Net: NetName=GPIO8 Pin=U1-41
+Added Net: Name=GPIO8

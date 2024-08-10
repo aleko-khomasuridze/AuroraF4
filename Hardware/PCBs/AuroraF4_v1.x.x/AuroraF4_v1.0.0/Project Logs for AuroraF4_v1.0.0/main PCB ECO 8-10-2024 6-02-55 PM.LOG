@@ -1,0 +1,13 @@
+Added Component: Designator=H2(2X4 male header - duplicate)
+Added Pin To Net: NetName=NRST Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=3.3V Pin=H2-4
+Added Pin To Net: NetName=3.3V Pin=H2-5
+Added Pin To Net: NetName=GND Pin=H2-7
+Added Pin To Net: NetName=SD_CK Pin=H2-6
+Added Pin To Net: NetName=SD_CK Pin=U1-80
+Added Net: Name=SD_CK
+Added Pin To Net: NetName=SD_CMD Pin=H2-8
+Added Pin To Net: NetName=SD_CMD Pin=U1-83
+Added Net: Name=SD_CMD
+Added Member To Class: ClassName=main Member=Component H2 2X4 male header
