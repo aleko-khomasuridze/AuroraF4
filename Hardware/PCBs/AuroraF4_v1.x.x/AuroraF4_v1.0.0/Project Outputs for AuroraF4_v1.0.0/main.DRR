@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: main.PcbDoc   8/12/2024  5:10:46 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : main-RoundHoles.TXT
+ASCII SlotHoles File : main-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             153       PTH        0.00mm (0.00inch)
+T2      0.65mm (26mil)                                            Slot              4         PTH        0.00mm (0.00inch)
+T3      0.8mm (31mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T4      0.89mm (35mil)                                            Round             8         PTH        0.00mm (0.00inch)
+T5      0.9mm (35mil)                                             Round             46        PTH        0.00mm (0.00inch)
+T6      1.02mm (40mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T7      1.4mm (55mil)                                             Slot              3         PTH        0.00mm (0.00inch)
+T8      1.63mm (64mil)                                            Round             2         PTH        0.00mm (0.00inch)
+T9      3mm (118mil)                                              Round             4         PTH        0.00mm (0.00inch)
+T10     0.65mm (26mil)                                            Round             2         NPTH       0.00mm (0.00inch)
+T11     3.25mm (128mil)                                           Round             2         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              230
+
+Total Processing Time (hh:mm:ss) : 00:00:00
