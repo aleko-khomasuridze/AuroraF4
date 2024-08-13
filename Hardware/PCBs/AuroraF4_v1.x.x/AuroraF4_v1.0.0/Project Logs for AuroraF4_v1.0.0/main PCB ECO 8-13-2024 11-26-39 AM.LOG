@@ -1,0 +1,25 @@
+Added Component: Designator=J3(VALCON_CSP-USC16-TR)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CSP-USC16-TR/Valcon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Valcon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CSP-USC16-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CSP-USC16-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CSP-USC16-TR/Valcon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-A1
+Added Pin To Net: NetName=VBUS Pin=J3-A4
+Added Pin To Net: NetName=D- Pin=J3-A6
+Added Pin To Net: NetName=D+ Pin=J3-A7
+Added Pin To Net: NetName=NetJ3_A8 Pin=J3-A8
+Added Pin To Net: NetName=VBUS Pin=J3-A9
+Added Pin To Net: NetName=GND Pin=J3-A12
+Added Pin To Net: NetName=GND Pin=J3-B1
+Added Pin To Net: NetName=VBUS Pin=J3-B4
+Added Pin To Net: NetName=D- Pin=J3-B6
+Added Pin To Net: NetName=D+ Pin=J3-B7
+Added Pin To Net: NetName=NetJ3_B8 Pin=J3-B8
+Added Pin To Net: NetName=VBUS Pin=J3-B9
+Added Pin To Net: NetName=GND Pin=J3-B12
+Added Member To Class: ClassName=main Member=Component J3 CSP-USC16-TR

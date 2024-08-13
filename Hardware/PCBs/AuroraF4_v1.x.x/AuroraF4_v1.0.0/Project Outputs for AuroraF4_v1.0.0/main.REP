@@ -30,6 +30,171 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Layer
+      File : main.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D35
+    D36
+    D37
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : main.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : main.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : main.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : main.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : main.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : main.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : main.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
 Generating : Top Pad Master
       File : main.GPT
 
@@ -129,62 +294,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : main.GTL
+Generating : Bottom Paste
+      File : main.GBP
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D35
-    D36
-    D37
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : main.GBS
-
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -192,20 +305,18 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : main.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+    D92
 *************************************************************
 
 *************************************************************
@@ -233,51 +344,6 @@ Used DCodes :
     D89
     D90
     D91
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : main.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : main.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D93
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : main.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : main.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
 *************************************************************
 
 *************************************************************
@@ -315,71 +381,5 @@ Used DCodes :
     D35
     D36
     D37
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : main.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D12
-    D92
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : main.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : main.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : main.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
 *************************************************************
 
