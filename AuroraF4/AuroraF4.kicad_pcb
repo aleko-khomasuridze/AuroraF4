@@ -461,7 +461,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "c77089ee-1c7e-44e3-b111-9924e824a8d5")
 		)
-		(model "C:/Users/aleko/Downloads/jst-gh-1-25mm-connector-set-1.snapshot.111/JST - GH - SMD - Right - 1.25mm/JST - GH - SMD (R) - 4Pin - 1.25mm.stp"
+		(model "C:/Users/aleko/OneDrive/Documents/KiCad/assets/JST - GH - SMD - Right - 1.25mm/JST - GH - SMD (R) - 4Pin - 1.25mm.stp"
 			(offset
 				(xyz -0.62 0 0)
 			)
@@ -8563,7 +8563,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "cb94fb2c-d07a-49cc-9b97-0433ae666a4a")
 		)
-		(model "C:/Users/aleko/Downloads/jst-gh-1-25mm-connector-set-1.snapshot.111/JST - GH - SMD - Right - 1.25mm/JST - GH - SMD (R) - 6Pin - 1.25mm.stp"
+		(model "C:/Users/aleko/OneDrive/Documents/KiCad/assets/JST - GH - SMD - Right - 1.25mm/JST - GH - SMD (R) - 6Pin - 1.25mm.stp"
 			(offset
 				(xyz -0.62 0 0)
 			)
@@ -14168,7 +14168,7 @@
 			(pintype "passive+no_connect")
 			(uuid "62637c5e-8257-4d2b-bca3-6185580359a0")
 		)
-		(model "C:/Users/aleko/Downloads/User Library-USB Type C Port (SMD Type).STEP"
+		(model "C:/Users/aleko/OneDrive/Documents/KiCad/assets/USBs/Type-C/USB Type C Port (SMD Type).STEP"
 			(offset
 				(xyz 0.08 7.2 1.5)
 			)
@@ -15306,7 +15306,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "290a2df2-7671-47d9-b331-074f4b360c31")
 		)
-		(model "C:/Users/aleko/Downloads/jst-gh-1-25mm-connector-set-1.snapshot.111/JST - GH - SMD - Right - 1.25mm/JST - GH - SMD (R) - 4Pin - 1.25mm.stp"
+		(model "C:/Users/aleko/OneDrive/Documents/KiCad/assets/JST - GH - SMD - Right - 1.25mm/JST - GH - SMD (R) - 4Pin - 1.25mm.stp"
 			(offset
 				(xyz -0.62 0 0)
 			)
