@@ -23,17 +23,17 @@ AuroraF4 is a powerful development board based on the STM32F407VGT microcontroll
 
 ## Pinout Diagram
 
-![AuroraF4 Pinout](assets/pinout.jpg)
+![AuroraF4 Pinout](Assets/pinout.jpg)
 
 Refer to the pinout diagram above for GPIO assignments and interface connections.
 
 ## PCB Design and Layout
 
 ### PCB Top View
-![AuroraF4 PCB Layout](./assets/board.png)
+![AuroraF4 PCB Layout](./Assets/board.png)
 
 ### 3D Render
-![AuroraF4 Render](assets/board-presentation.png)
+![AuroraF4 Render](Assets/board-presentation.png)
 
 ## Getting Started
 
