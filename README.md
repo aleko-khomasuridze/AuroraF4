@@ -30,7 +30,7 @@ Refer to the pinout diagram above for GPIO assignments and interface connections
 ## PCB Design and Layout
 
 ### PCB Top View
-![AuroraF4 PCB Layout](./Assets/board.png)
+![AuroraF4 PCB Layout](./Assets/Board.png)
 
 ### 3D Render
 ![AuroraF4 Render](Assets/board-presentation.png)
